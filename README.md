@@ -1,2 +1,2 @@
-# LeetCodeSolutions
-Repo to track and share my progress on LeetCode, improving my JS Logic.
+# C GENERATIONAL LOCK IN
+become academic weapon
